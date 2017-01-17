@@ -11,4 +11,4 @@ pod 'XCGLogger', '~> 3.3'
 pod 'Alamofire', '~> 3.4.0'
 
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
