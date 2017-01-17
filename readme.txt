@@ -9,3 +9,6 @@ pod 'Genome', '~> 2.0.4'
 pod 'RealmSwift', '~> 1.0.0'
 pod 'XCGLogger', '~> 3.3'
 pod 'Alamofire', '~> 3.4.0'
+
+Git is a distributed version control system.
+Git is free software.
